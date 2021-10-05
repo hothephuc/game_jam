@@ -42,7 +42,10 @@
 
 ***eng:***
 
-    **1**.CONNECT simply means connecting with others, you can understand CONNECT however you see fit.
+   
+   **1**.CONNECT simply means connecting with others, you can understand CONNECT however you see fit.
+
+
     
     **2**.There are no restrictions on mechanics or artwork. However, entry games must have a ( However, try to keep it family friendly)
 
